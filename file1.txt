@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 "file 1 txt" 
 fdfkdfjdlkfj
@@ -5,4 +6,8 @@ skdfjkldfdsklf
 kfljsdklfjdsklfjdskl
 fjl;fjdl;fj
 fdfjdl;f
->
+=======
+kfjds;lfdl;fkd;l
+lkdjdfj;af
+sdfklj
+>>>>>>> new
